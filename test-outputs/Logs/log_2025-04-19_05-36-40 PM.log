@@ -1,0 +1,24 @@
+[INFO] 19-04-2025 17:36:40 [main] [Tests.TC02_LandingTest.loginCookie(TC02_LandingTest.java:37)] - chrome is opened
+[INFO] 19-04-2025 17:36:41 [main] [Tests.TC02_LandingTest.loginCookie(TC02_LandingTest.java:39)] - The page redirect to the URL
+[INFO] 19-04-2025 17:36:47 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:54)] - chrome is opened
+[INFO] 19-04-2025 17:36:49 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:56)] - The page redirect to the URL
+[INFO] 19-04-2025 17:36:51 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: addingRandomProductsToCartTC Started
+[INFO] 19-04-2025 17:36:51 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 2
+[INFO] 19-04-2025 17:36:57 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case: addingRandomProductsToCartTC Failed
+[INFO] 19-04-2025 17:37:04 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:54)] - chrome is opened
+[INFO] 19-04-2025 17:37:07 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:56)] - The page redirect to the URL
+[INFO] 19-04-2025 17:37:07 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: checkingNumberOfSelectedProductsTC Started
+[INFO] 19-04-2025 17:37:07 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - Number Of All Products: 1
+[ERROR] 19-04-2025 17:37:13 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:49)] - Expected condition failed: waiting for visibility of element located by By.className: shopping_cart_badge (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.96, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\Users\brand\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63864}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63864/devtoo..., se:cdpVersion: 135.0.7049.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 05d3f699a813f4573c429614cf6092e7
+[INFO] 19-04-2025 17:37:13 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - NumberOfSelectedProducts: 0
+[INFO] 19-04-2025 17:37:13 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: checkingNumberOfSelectedProductsTC Passed
+[INFO] 19-04-2025 17:37:16 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:54)] - chrome is opened
+[INFO] 19-04-2025 17:37:19 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:56)] - The page redirect to the URL
+[INFO] 19-04-2025 17:37:20 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: clickOnCartIconTC Started
+[INFO] 19-04-2025 17:37:20 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 5
+[INFO] 19-04-2025 17:37:25 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case: clickOnCartIconTC Failed

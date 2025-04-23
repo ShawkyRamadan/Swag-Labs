@@ -1,0 +1,9 @@
+[INFO] 18-04-2025 20:54:44 [main] [Tests.TC06_FinishingOrderTest.setUp(TC06_FinishingOrderTest.java:38)] - chrome is opened
+[INFO] 18-04-2025 20:54:44 [main] [Tests.TC06_FinishingOrderTest.setUp(TC06_FinishingOrderTest.java:40)] - The page redirect to the URL
+[INFO] 18-04-2025 20:54:45 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: finishOrderTC Started
+[INFO] 18-04-2025 20:54:47 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 3
+[INFO] 18-04-2025 20:54:47 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 6
+[INFO] 18-04-2025 20:54:48 [main] [Pages.P04_CheckoutPage.fillingInformationForm(P04_CheckoutPage.java:26)] - FIRSTNAME: fTest-2025-04-18-8-54-23PM
+[INFO] 18-04-2025 20:54:48 [main] [Pages.P04_CheckoutPage.fillingInformationForm(P04_CheckoutPage.java:28)] - LASTNAME: lTest-2025-04-18-8-54-23PM
+[INFO] 18-04-2025 20:54:49 [main] [Pages.P04_CheckoutPage.fillingInformationForm(P04_CheckoutPage.java:30)] - ZIPCODE: 14266
+[INFO] 18-04-2025 20:54:49 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: finishOrderTC Passed

@@ -1,0 +1,15 @@
+[INFO] 18-04-2025 02:14:15 [main] [Tests.TC05_OverviewTest.setUp(TC05_OverviewTest.java:38)] - chrome is opened
+[INFO] 18-04-2025 02:14:17 [main] [Tests.TC05_OverviewTest.setUp(TC05_OverviewTest.java:40)] - The page redirect to the URL
+[INFO] 18-04-2025 02:14:17 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: checkoutStepOneTC Started
+[INFO] 18-04-2025 02:14:18 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 3
+[INFO] 18-04-2025 02:14:19 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 6
+[INFO] 18-04-2025 02:14:20 [main] [Pages.P04_CheckoutPage.fillingInformationForm(P04_CheckoutPage.java:26)] - FIRSTNAME: fTest-2025-04-18-2-14-03AM
+[INFO] 18-04-2025 02:14:21 [main] [Pages.P04_CheckoutPage.fillingInformationForm(P04_CheckoutPage.java:28)] - LASTNAME: lTest-2025-04-18-2-14-03AM
+[INFO] 18-04-2025 02:14:21 [main] [Pages.P04_CheckoutPage.fillingInformationForm(P04_CheckoutPage.java:30)] - ZIPCODE: 08528
+[INFO] 18-04-2025 02:14:22 [main] [Pages.P05_OverviewPage.getTotal(P05_OverviewPage.java:34)] - Actual Total price: Total: $34.54
+[INFO] 18-04-2025 02:14:22 [main] [Pages.P05_OverviewPage.getSubTotal(P05_OverviewPage.java:23)] - subTotal: Item total: $31.98
+[INFO] 18-04-2025 02:14:22 [main] [Pages.P05_OverviewPage.getTax(P05_OverviewPage.java:28)] - tax: Tax: $2.56
+[INFO] 18-04-2025 02:14:22 [main] [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:40)] - Calculated Total price: 31.982.56
+[INFO] 18-04-2025 02:14:22 [main] [Pages.P05_OverviewPage.getSubTotal(P05_OverviewPage.java:23)] - subTotal: Item total: $31.98
+[INFO] 18-04-2025 02:14:22 [main] [Pages.P05_OverviewPage.getTax(P05_OverviewPage.java:28)] - tax: Tax: $2.56
+[INFO] 18-04-2025 02:14:22 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: checkoutStepOneTC Passed

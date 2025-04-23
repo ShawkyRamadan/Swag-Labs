@@ -1,0 +1,6 @@
+[INFO] 18-04-2025 00:34:57 [main] [Tests.TC04_CheckoutTest.setUp(TC_04OCheckoutTest.java:57)] - chrome is opened
+[INFO] 18-04-2025 00:34:58 [main] [Tests.TC04_CheckoutTest.setUp(TC_04OCheckoutTest.java:59)] - The page redirect to the URL
+[INFO] 18-04-2025 00:34:58 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: checkoutStepOneTC Started
+[INFO] 18-04-2025 00:35:00 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 3
+[INFO] 18-04-2025 00:35:00 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 4
+[INFO] 18-04-2025 00:35:03 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: checkoutStepOneTC Passed

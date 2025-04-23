@@ -1,0 +1,8 @@
+[INFO] 17-04-2025 13:09:35 [main] [Tests.TC03_CartTest.setUp(TC03_CartTest.java:48)] - chrome is opened
+[INFO] 17-04-2025 13:09:37 [main] [Tests.TC03_CartTest.setUp(TC03_CartTest.java:50)] - The page redirect to the URL
+[INFO] 17-04-2025 13:09:37 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: comparingPricesTC Started
+[INFO] 17-04-2025 13:09:39 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:75)] - random Number: 2
+[INFO] 17-04-2025 13:09:39 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:75)] - random Number: 4
+[INFO] 17-04-2025 13:09:40 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:107)] - Total price: 59.980003
+[INFO] 17-04-2025 13:09:41 [main] [Pages.P03_CartPage.getTotalPrice(P03_CartPage.java:29)] - Total price: 59.980003
+[INFO] 17-04-2025 13:09:41 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: comparingPricesTC Passed

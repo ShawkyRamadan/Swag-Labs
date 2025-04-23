@@ -1,0 +1,7 @@
+[INFO] 13-04-2025 20:08:17 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:49)] - chrome is opened
+[INFO] 13-04-2025 20:08:19 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:51)] - The page redirect to the URL
+[INFO] 13-04-2025 20:08:20 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: checkingNumberOfSelectedProductsTC Started
+[INFO] 13-04-2025 20:08:22 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:25)] - Number Of All Products: 6
+[INFO] 13-04-2025 20:08:25 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:36)] - NumberOfProductsOnCartIcon: 6
+[INFO] 13-04-2025 20:08:25 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:49)] - NumberOfSelectedProducts: 6
+[INFO] 13-04-2025 20:08:25 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:22)] - Test Case: checkingNumberOfSelectedProductsTC Failed
