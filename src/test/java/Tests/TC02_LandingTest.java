@@ -31,7 +31,7 @@ public class TC02_LandingTest {
     }
 
 
-    @BeforeClass
+    @BeforeClass(alwaysRun = true)
     public void loginCookie() throws IOException {
         String browser = System.getProperty("browser") != null ? System.getProperty("browser") : DataUtils.getPropertyData("environment", "Browser");
         setUpDriver(browser);
@@ -49,7 +49,7 @@ public class TC02_LandingTest {
     }
 
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setUp() throws IOException {
         String browser = System.getProperty("browser") != null ? System.getProperty("browser") : DataUtils.getPropertyData("environment", "Browser");
         setUpDriver(browser);
@@ -92,7 +92,7 @@ public class TC02_LandingTest {
 
     }
 
-    @AfterClass
+    @AfterClass(alwaysRun = true)
     public void deleteSession() {
         cookies.clear();
     }
