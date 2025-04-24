@@ -1,6 +1,0 @@
-[INFO] 16-04-2025 20:53:21 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:49)] - chrome is opened
-[INFO] 16-04-2025 20:53:23 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:51)] - The page redirect to the URL
-[INFO] 16-04-2025 20:53:23 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: clickOnCartIconTC Started
-[INFO] 16-04-2025 20:53:24 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:73)] - random Number: 3
-[INFO] 16-04-2025 20:53:25 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:73)] - random Number: 5
-[INFO] 16-04-2025 20:53:26 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: clickOnCartIconTC Passed

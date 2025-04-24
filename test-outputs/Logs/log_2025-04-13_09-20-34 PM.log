@@ -1,4 +1,0 @@
-[INFO] 13-04-2025 21:20:34 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:21)] - Test Case: setUp Failed
-[ERROR] 13-04-2025 21:20:34 [main] [Utilities.Utility.takingFullScreenshotUsingShutterBug(Utility.java:99)] - Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
-[INFO] 13-04-2025 21:20:35 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: checkingNumberOfSelectedProductsTC Started
-[INFO] 13-04-2025 21:20:35 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:19)] - Test Case: checkingNumberOfSelectedProductsTC Skipped

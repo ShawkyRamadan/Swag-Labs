@@ -1,5 +1,0 @@
-[INFO] 15-04-2025 23:20:56 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:49)] - chrome is opened
-[INFO] 15-04-2025 23:20:58 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:51)] - The page redirect to the URL
-[INFO] 15-04-2025 23:20:59 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: addingRandomProductsToCartTC Started
-[INFO] 15-04-2025 23:21:00 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - random Number: 50
-[INFO] 15-04-2025 23:21:10 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:21)] - Test Case: addingRandomProductsToCartTC Failed

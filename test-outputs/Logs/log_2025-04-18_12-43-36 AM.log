@@ -1,9 +1,0 @@
-[INFO] 18-04-2025 00:43:37 [main] [Tests.TC04_CheckoutTest.setUp(TC_04OCheckoutTest.java:42)] - chrome is opened
-[INFO] 18-04-2025 00:43:38 [main] [Tests.TC04_CheckoutTest.setUp(TC_04OCheckoutTest.java:44)] - The page redirect to the URL
-[INFO] 18-04-2025 00:43:39 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: checkoutStepOneTC Started
-[INFO] 18-04-2025 00:43:40 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 1
-[INFO] 18-04-2025 00:43:41 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 4
-[INFO] 18-04-2025 00:43:42 [main] [Pages.P04_CheckoutPage.fillingInformationForm(P04_CheckoutPage.java:26)] - FIRSTNAME: fTest-2025-04-18-12-43-25AM
-[INFO] 18-04-2025 00:43:42 [main] [Pages.P04_CheckoutPage.fillingInformationForm(P04_CheckoutPage.java:28)] - LASTNAME: lTest-2025-04-18-12-43-25AM
-[INFO] 18-04-2025 00:43:42 [main] [Pages.P04_CheckoutPage.fillingInformationForm(P04_CheckoutPage.java:30)] - ZIPCODE: 38825
-[INFO] 18-04-2025 00:43:43 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: checkoutStepOneTC Passed

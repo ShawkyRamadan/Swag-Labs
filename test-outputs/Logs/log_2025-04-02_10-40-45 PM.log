@@ -1,4 +1,0 @@
-[INFO] 02-04-2025 22:40:45 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:47)] - chrome is opened
-[INFO] 02-04-2025 22:40:46 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:49)] - The page redirect to the URL
-[INFO] 02-04-2025 22:40:47 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - Test CasevalidLoginTCStarted
-[INFO] 02-04-2025 22:40:48 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:16)] - Test CasevalidLoginTCPassed

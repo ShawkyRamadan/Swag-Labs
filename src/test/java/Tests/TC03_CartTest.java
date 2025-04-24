@@ -28,7 +28,7 @@ public class TC03_CartTest {
     public TC03_CartTest() throws FileNotFoundException {
     }
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setUp() throws IOException {
         String browser = System.getProperty("browser") != null ? System.getProperty("browser") : DataUtils.getPropertyData("environment", "Browser");
         setUpDriver(browser);
@@ -54,7 +54,7 @@ public class TC03_CartTest {
 
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit() {
         quitDriver();
 

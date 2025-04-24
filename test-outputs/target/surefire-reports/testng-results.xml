@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-22T21:23:00 EET" name="Login Suite" finished-at="2025-04-22T21:23:18 EET" duration-ms="17816">
+    <groups>
+    </groups>
+    <test started-at="2025-04-22T21:23:00 EET" name="Login Test" finished-at="2025-04-22T21:23:18 EET" duration-ms="17816">
+      <class name="Tests.TC01_LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TC01_LoginTest@127f9161]" started-at="2025-04-22T21:23:00 EET" name="setUp" finished-at="2025-04-22T21:23:14 EET" duration-ms="13756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTC()[pri:0, instance:Tests.TC01_LoginTest@127f9161]" started-at="2025-04-22T21:23:14 EET" name="validLoginTC" finished-at="2025-04-22T21:23:16 EET" duration-ms="1559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTC -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Tests.TC01_LoginTest@127f9161]" started-at="2025-04-22T21:23:16 EET" name="quit" finished-at="2025-04-22T21:23:18 EET" duration-ms="1541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Tests.TC01_LoginTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Login Suite -->
+</testng-results>
