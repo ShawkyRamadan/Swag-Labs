@@ -1,0 +1,27 @@
+[INFO] 02-05-2025 20:09:26 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:35)] - edge is opened
+[INFO] 02-05-2025 20:09:28 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:37)] - The page redirect to the URL
+[INFO] 02-05-2025 20:09:29 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: validLoginTC Started
+[INFO] 02-05-2025 20:09:30 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: validLoginTC Passed
+[INFO] 02-05-2025 20:09:38 [main] [Tests.TC02_LandingTest.loginCookie(TC02_LandingTest.java:38)] - edge is opened
+[INFO] 02-05-2025 20:09:40 [main] [Tests.TC02_LandingTest.loginCookie(TC02_LandingTest.java:40)] - The page redirect to the URL
+[INFO] 02-05-2025 20:09:48 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:56)] - edge is opened
+[INFO] 02-05-2025 20:09:51 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:58)] - The page redirect to the URL
+[INFO] 02-05-2025 20:09:52 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: addingRandomProductsToCartTC Started
+[INFO] 02-05-2025 20:09:52 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 1
+[INFO] 02-05-2025 20:09:53 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 3
+[INFO] 02-05-2025 20:09:53 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 4
+[INFO] 02-05-2025 20:09:53 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:44)] - NumberOfProductsOnCartIcon: 3
+[INFO] 02-05-2025 20:09:53 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - NumberOfSelectedProducts: 3
+[INFO] 02-05-2025 20:09:53 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: addingRandomProductsToCartTC Passed
+[INFO] 02-05-2025 20:10:00 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:56)] - edge is opened
+[INFO] 02-05-2025 20:10:04 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:58)] - The page redirect to the URL
+[INFO] 02-05-2025 20:10:05 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: checkingNumberOfSelectedProductsTC Started
+[INFO] 02-05-2025 20:10:05 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - Number Of All Products: 6
+[INFO] 02-05-2025 20:10:06 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:44)] - NumberOfProductsOnCartIcon: 6
+[INFO] 02-05-2025 20:10:06 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - NumberOfSelectedProducts: 6
+[INFO] 02-05-2025 20:10:06 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: checkingNumberOfSelectedProductsTC Passed
+[INFO] 02-05-2025 20:10:14 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:56)] - edge is opened
+[INFO] 02-05-2025 20:10:17 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:58)] - The page redirect to the URL
+[INFO] 02-05-2025 20:10:18 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: clickOnCartIconTC Started
+[INFO] 02-05-2025 20:10:18 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 3
+[INFO] 02-05-2025 20:10:19 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:74)] - random Number: 4

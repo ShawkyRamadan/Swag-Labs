@@ -44,7 +44,7 @@ public class TC05_OverviewTest {
     }
 
     @Test
-    public void checkoutStepOneTC() throws IOException {
+    public void checkoutStepTwoTC() throws IOException {
         //TODO:Login Steps
         new P01_LoginPage(getDriver())
                 .enterUsername(USERNAME)

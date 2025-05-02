@@ -1,0 +1,6 @@
+[INFO] 02-05-2025 20:09:26 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:35)] - edge is opened
+[INFO] 02-05-2025 20:09:28 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:37)] - The page redirect to the URL
+[INFO] 02-05-2025 20:09:29 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: validLoginTC Started
+[INFO] 02-05-2025 20:09:30 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: validLoginTC Passed
+[INFO] 02-05-2025 20:09:38 [main] [Tests.TC02_LandingTest.loginCookie(TC02_LandingTest.java:38)] - edge is opened
+[INFO] 02-05-2025 20:09:40 [main] [Tests.TC02_LandingTest.loginCookie(TC02_LandingTest.java:40)] - The page redirect to the URL

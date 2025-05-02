@@ -1,25 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-22T21:23:00 EET" name="Login Suite" finished-at="2025-04-22T21:23:18 EET" duration-ms="17816">
+  <suite started-at="2025-05-02T20:09:06 EEST" name="Regression Suite" finished-at="2025-05-02T20:11:16 EEST" duration-ms="129843">
     <groups>
     </groups>
-    <test started-at="2025-04-22T21:23:00 EET" name="Login Test" finished-at="2025-04-22T21:23:18 EET" duration-ms="17816">
-      <class name="Tests.TC01_LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TC01_LoginTest@127f9161]" started-at="2025-04-22T21:23:00 EET" name="setUp" finished-at="2025-04-22T21:23:14 EET" duration-ms="13756" status="PASS">
+    <test started-at="2025-05-02T20:09:06 EEST" name="Regression Test" finished-at="2025-05-02T20:11:16 EEST" duration-ms="129843">
+      <class name="Tests.TC02_LandingTest">
+        <test-method is-config="true" signature="loginCookie()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:09:33 EEST" name="loginCookie" finished-at="2025-05-02T20:09:44 EEST" duration-ms="10563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCookie -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:09:44 EEST" name="setUp" finished-at="2025-05-02T20:09:52 EEST" duration-ms="8191" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validLoginTC()[pri:0, instance:Tests.TC01_LoginTest@127f9161]" started-at="2025-04-22T21:23:14 EET" name="validLoginTC" finished-at="2025-04-22T21:23:16 EET" duration-ms="1559" status="PASS">
+        <test-method signature="addingRandomProductsToCartTC()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:09:52 EEST" name="addingRandomProductsToCartTC" finished-at="2025-05-02T20:09:53 EEST" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingRandomProductsToCartTC -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:09:53 EEST" name="quit" finished-at="2025-05-02T20:09:56 EEST" duration-ms="3020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:09:56 EEST" name="setUp" finished-at="2025-05-02T20:10:05 EEST" duration-ms="8183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkingNumberOfSelectedProductsTC()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:10:05 EEST" name="checkingNumberOfSelectedProductsTC" finished-at="2025-05-02T20:10:06 EEST" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingNumberOfSelectedProductsTC -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:10:06 EEST" name="quit" finished-at="2025-05-02T20:10:10 EEST" duration-ms="3557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:10:10 EEST" name="setUp" finished-at="2025-05-02T20:10:18 EEST" duration-ms="8621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnCartIconTC()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:10:18 EEST" name="clickOnCartIconTC" finished-at="2025-05-02T20:10:19 EEST" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCartIconTC -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:10:19 EEST" name="quit" finished-at="2025-05-02T20:10:22 EEST" duration-ms="2902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="deleteSession()[pri:0, instance:Tests.TC02_LandingTest@77cb9cd1]" started-at="2025-05-02T20:10:22 EEST" name="deleteSession" finished-at="2025-05-02T20:10:22 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteSession -->
+      </class> <!-- Tests.TC02_LandingTest -->
+      <class name="Tests.TC03_CartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TC03_CartTest@51d143a1]" started-at="2025-05-02T20:10:22 EEST" name="setUp" finished-at="2025-05-02T20:10:29 EEST" duration-ms="7333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="comparingPricesTC()[pri:0, instance:Tests.TC03_CartTest@51d143a1]" started-at="2025-05-02T20:10:29 EEST" name="comparingPricesTC" finished-at="2025-05-02T20:10:31 EEST" duration-ms="1832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparingPricesTC -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Tests.TC03_CartTest@51d143a1]" started-at="2025-05-02T20:10:31 EEST" name="quit" finished-at="2025-05-02T20:10:35 EEST" duration-ms="3580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Tests.TC03_CartTest -->
+      <class name="Tests.TC05_OverviewTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TC05_OverviewTest@664e5dee]" started-at="2025-05-02T20:10:48 EEST" name="setUp" finished-at="2025-05-02T20:10:56 EEST" duration-ms="7835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkoutStepOneTC()[pri:0, instance:Tests.TC05_OverviewTest@664e5dee]" started-at="2025-05-02T20:10:56 EEST" name="checkoutStepOneTC" finished-at="2025-05-02T20:10:59 EEST" duration-ms="3131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutStepOneTC -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Tests.TC05_OverviewTest@664e5dee]" started-at="2025-05-02T20:10:59 EEST" name="quit" finished-at="2025-05-02T20:11:02 EEST" duration-ms="3260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Tests.TC05_OverviewTest -->
+      <class name="Tests.TC06_FinishingOrderTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TC06_FinishingOrderTest@431f1eaf]" started-at="2025-05-02T20:11:02 EEST" name="setUp" finished-at="2025-05-02T20:11:10 EEST" duration-ms="7574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="finishOrderTC()[pri:0, instance:Tests.TC06_FinishingOrderTest@431f1eaf]" started-at="2025-05-02T20:11:10 EEST" name="finishOrderTC" finished-at="2025-05-02T20:11:13 EEST" duration-ms="3372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishOrderTC -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Tests.TC06_FinishingOrderTest@431f1eaf]" started-at="2025-05-02T20:11:13 EEST" name="quit" finished-at="2025-05-02T20:11:16 EEST" duration-ms="2941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Tests.TC06_FinishingOrderTest -->
+      <class name="Tests.TC04_CheckoutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TC04_CheckoutTest@27ace0b1]" started-at="2025-05-02T20:10:35 EEST" name="setUp" finished-at="2025-05-02T20:10:42 EEST" duration-ms="7651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkoutStepOneTC()[pri:0, instance:Tests.TC04_CheckoutTest@27ace0b1]" started-at="2025-05-02T20:10:42 EEST" name="checkoutStepOneTC" finished-at="2025-05-02T20:10:45 EEST" duration-ms="2673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutStepOneTC -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Tests.TC04_CheckoutTest@27ace0b1]" started-at="2025-05-02T20:10:45 EEST" name="quit" finished-at="2025-05-02T20:10:48 EEST" duration-ms="2742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Tests.TC04_CheckoutTest -->
+      <class name="Tests.TC01_LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TC01_LoginTest@7965a51c]" started-at="2025-05-02T20:09:07 EEST" name="setUp" finished-at="2025-05-02T20:09:28 EEST" duration-ms="21605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTC()[pri:0, instance:Tests.TC01_LoginTest@7965a51c]" started-at="2025-05-02T20:09:29 EEST" name="validLoginTC" finished-at="2025-05-02T20:09:30 EEST" duration-ms="1426" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginTC -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:Tests.TC01_LoginTest@127f9161]" started-at="2025-04-22T21:23:16 EET" name="quit" finished-at="2025-04-22T21:23:18 EET" duration-ms="1541" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:Tests.TC01_LoginTest@7965a51c]" started-at="2025-05-02T20:09:30 EEST" name="quit" finished-at="2025-05-02T20:09:33 EEST" duration-ms="3228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
       </class> <!-- Tests.TC01_LoginTest -->
-    </test> <!-- Login Test -->
-  </suite> <!-- Login Suite -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
 </testng-results>
